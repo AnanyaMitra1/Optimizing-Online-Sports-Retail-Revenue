@@ -2,7 +2,7 @@
 
 The sports clothing industry is thriving!, driven by increasing demand for activewear and fitness-related products. In this project, I delved into the data of an online sports retail company to extract insights that can help maximize revenue. Using SQL, I have explored numeric, string, and timestamp data related to pricing, revenue, ratings, reviews, descriptions, and website traffic.
 
-Project Tasks
+#Project Tasks
 1. Counting Missing Values
 To ensure data integrity, I began by identifying and counting missing values across various attributes. This step allows me to understand the completeness of the dataset and decide on appropriate strategies for handling missing information.
 
